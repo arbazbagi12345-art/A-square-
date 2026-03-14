@@ -1,0 +1,5 @@
+{
+  "name": "SonicRack Audio Plugin",
+  "description": "A professional-grade music interface for audio processing and synthesis control.",
+  "requestFramePermissions": []
+}
